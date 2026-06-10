@@ -1,0 +1,10 @@
+[
+  {"name": "Unit 741B: Oakville Fine Sand", "k_value": 0.6},
+  {"name": "Unit 201A: Gilford Sandy Loam", "k_value": 0.9},
+  {"name": "Unit 103A: Houghton Muck", "k_value": 1.0},
+  {"name": "Unit 318A: Lorenzo Loam", "k_value": 1.1},
+  {"name": "Unit 146A: Elliott Silt Loam", "k_value": 1.2},
+  {"name": "Unit 27B: Miami Silt Loam", "k_value": 1.2},
+  {"name": "Unit 805B: Orthents Clayey", "k_value": 1.5},
+  {"name": "Unit 232A: Ashkum Silty Clay", "k_value": 1.5}
+]
